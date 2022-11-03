@@ -1,0 +1,1 @@
+To import the KiCad symbol, footprint and 3D model, copy the eub-kicad-library directory with its contents to your KiCad project directory and add the EUB_RF_Module library to your project footprints and symbols.
